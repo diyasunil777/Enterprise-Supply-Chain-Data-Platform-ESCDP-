@@ -1,4 +1,4 @@
-CREATE TABLE staging.warehouse_management_wms (
+CREATE TABLE warehouse_management_wms (
     order_id                    INTEGER,
     category_id                 INTEGER,
     category_name                VARCHAR(255),

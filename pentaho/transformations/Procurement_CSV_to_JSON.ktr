@@ -826,14 +826,14 @@
     </partitioning>
     <outputValue>outputValue</outputValue>
     <jsonBloc>data</jsonBloc>
-    <nrRowsInBloc>1</nrRowsInBloc>
+    <nrRowsInBloc>0</nrRowsInBloc>
     <operation_type>writetofile</operation_type>
     <compatibility_mode>N</compatibility_mode>
     <encoding>UTF-8</encoding>
     <addtoresult>N</addtoresult>
     <file>
       <name>C:\PDI_Projects\proc_json</name>
-      <extention>js</extention>
+      <extention>json</extention>
       <append>N</append>
       <split>N</split>
       <haspartno>N</haspartno>

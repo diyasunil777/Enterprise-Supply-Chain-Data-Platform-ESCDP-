@@ -454,7 +454,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\warehouse_management_wms_2000.csv</filename>
+    <filename>C:\PDI_Projects\warehouse_management_wms_2000.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -644,7 +644,7 @@
     <append>N</append>
     <add_to_result_filenames>Y</add_to_result_filenames>
     <file>
-      <name>file</name>
+      <name>C:\PDI_Projects\wms_excel7</name>
       <extention>xls</extention>
       <do_not_open_newfile_init>N</do_not_open_newfile_init>
       <create_parent_folder>N</create_parent_folder>
@@ -668,6 +668,71 @@
       <filename>template.xls</filename>
     </template>
     <fields>
+      <field>
+        <name>Order Id</name>
+        <type>Integer</type>
+        <format/>
+      </field>
+      <field>
+        <name>Category Id</name>
+        <type>Integer</type>
+        <format/>
+      </field>
+      <field>
+        <name>Category Name</name>
+        <type>String</type>
+        <format/>
+      </field>
+      <field>
+        <name>Department Id</name>
+        <type>Integer</type>
+        <format/>
+      </field>
+      <field>
+        <name>Department Name</name>
+        <type>String</type>
+        <format/>
+      </field>
+      <field>
+        <name>Order Item Cardprod Id</name>
+        <type>Integer</type>
+        <format/>
+      </field>
+      <field>
+        <name>Order Item Id</name>
+        <type>Integer</type>
+        <format/>
+      </field>
+      <field>
+        <name>Product Card Id</name>
+        <type>Integer</type>
+        <format/>
+      </field>
+      <field>
+        <name>Product Category Id</name>
+        <type>Integer</type>
+        <format/>
+      </field>
+      <field>
+        <name>Product Description</name>
+        <type>Boolean</type>
+        <format/>
+      </field>
+      <field>
+        <name>Product Image</name>
+        <type>String</type>
+        <format/>
+      </field>
+      <field>
+        <name>Product Name</name>
+        <type>String</type>
+        <format/>
+      </field>
+      <field>
+        <name>Product Status</name>
+        <type>Integer</type>
+        <format/>
+      </field>
     </fields>
     <custom>
       <header_font_name>arial</header_font_name>

@@ -543,7 +543,7 @@
     <append>N</append>
     <add_to_result_filenames>Y</add_to_result_filenames>
     <file>
-      <name>C:\PDI_Projects\vendor_excel.xls</name>
+      <name>C:\PDI_Projects\vendor_exce_newl.xls</name>
       <extention>xls</extention>
       <do_not_open_newfile_init>N</do_not_open_newfile_init>
       <create_parent_folder>N</create_parent_folder>

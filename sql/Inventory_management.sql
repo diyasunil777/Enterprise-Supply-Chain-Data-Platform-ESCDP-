@@ -1,4 +1,4 @@
-CREATE TABLE staging.inventory_management (
+CREATE TABLE inventory_management (
     order_id                     INTEGER,
     order_item_quantity            INTEGER,
     product_price                  NUMERIC(12,2),

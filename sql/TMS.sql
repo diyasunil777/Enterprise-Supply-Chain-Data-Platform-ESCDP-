@@ -1,4 +1,5 @@
-CREATE TABLE staging.transportation_management_tms (
+
+CREATE TABLE transportation_management_tms (
     order_id                        INTEGER,
     shipping_mode                    VARCHAR(50),
     days_for_shipping_real            INTEGER,
