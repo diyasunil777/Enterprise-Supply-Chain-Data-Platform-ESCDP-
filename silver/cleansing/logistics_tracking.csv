@@ -1,0 +1,1702 @@
+﻿late_delivery_risk,order_id,delivery_status
+0,77202,Advance shipping
+1,75939,Late delivery
+0,75938,Shipping on time
+0,75937,Advance shipping
+0,75936,Advance shipping
+0,75935,Shipping canceled
+1,75934,Late delivery
+1,75933,Late delivery
+1,75932,Late delivery
+1,75931,Late delivery
+0,75930,Shipping canceled
+1,75929,Late delivery
+1,75928,Late delivery
+1,75927,Late delivery
+1,75926,Late delivery
+1,75925,Late delivery
+1,75924,Late delivery
+1,75923,Late delivery
+1,75922,Late delivery
+0,75921,Shipping on time
+0,75920,Shipping on time
+1,75919,Late delivery
+1,75918,Late delivery
+0,75917,Shipping canceled
+0,75916,Shipping canceled
+1,75915,Late delivery
+1,75914,Late delivery
+0,75913,Shipping on time
+0,75912,Advance shipping
+0,75911,Advance shipping
+1,75910,Late delivery
+1,75909,Late delivery
+0,75908,Shipping on time
+1,75907,Late delivery
+1,75906,Late delivery
+1,75905,Late delivery
+1,75904,Late delivery
+1,75903,Late delivery
+1,75902,Late delivery
+0,75901,Shipping canceled
+1,75900,Late delivery
+1,75899,Late delivery
+0,75898,Shipping on time
+0,75897,Advance shipping
+0,75896,Advance shipping
+1,75895,Late delivery
+1,75894,Late delivery
+0,75893,Shipping on time
+1,28744,Late delivery
+0,45461,Shipping on time
+1,31115,Late delivery
+0,45766,Shipping on time
+1,47752,Late delivery
+1,50054,Late delivery
+1,20365,Late delivery
+0,36146,Shipping on time
+1,41234,Late delivery
+1,32090,Late delivery
+1,34773,Late delivery
+0,44046,Shipping on time
+1,46414,Late delivery
+1,46599,Late delivery
+1,48434,Late delivery
+1,12827,Late delivery
+0,63936,Shipping on time
+1,65030,Late delivery
+1,18108,Late delivery
+0,62571,Shipping on time
+1,17162,Late delivery
+1,65922,Late delivery
+1,64813,Late delivery
+1,67892,Late delivery
+1,12525,Late delivery
+1,5895,Late delivery
+1,56359,Late delivery
+1,58613,Late delivery
+1,7824,Late delivery
+1,7814,Late delivery
+1,60807,Late delivery
+1,53413,Late delivery
+1,7888,Late delivery
+1,6783,Late delivery
+1,56973,Late delivery
+1,55155,Late delivery
+0,5991,Shipping on time
+1,2263,Late delivery
+1,53403,Late delivery
+1,51298,Late delivery
+1,4919,Late delivery
+1,52640,Late delivery
+0,6358,Shipping on time
+0,57106,Advance shipping
+1,6245,Late delivery
+0,52166,Advance shipping
+0,56172,Advance shipping
+1,55829,Late delivery
+0,52478,Shipping on time
+0,57242,Advance shipping
+0,3137,Advance shipping
+0,60127,Advance shipping
+0,3828,Shipping on time
+0,60386,Advance shipping
+0,973,Shipping on time
+1,57999,Late delivery
+1,54585,Late delivery
+0,57598,Shipping on time
+1,54274,Late delivery
+0,60673,Shipping on time
+0,59387,Advance shipping
+0,10007,Advance shipping
+1,55984,Late delivery
+1,58375,Late delivery
+0,56448,Shipping on time
+0,8221,Advance shipping
+1,58034,Late delivery
+0,2203,Shipping on time
+1,53069,Late delivery
+0,60146,Advance shipping
+1,55409,Late delivery
+0,8678,Shipping on time
+1,7980,Late delivery
+1,57185,Late delivery
+0,8636,Advance shipping
+0,61192,Advance shipping
+0,55876,Advance shipping
+0,53331,Advance shipping
+1,51725,Late delivery
+0,52562,Advance shipping
+1,59754,Late delivery
+1,53574,Late delivery
+1,399,Late delivery
+1,51050,Late delivery
+1,45680,Late delivery
+1,42992,Late delivery
+1,41304,Late delivery
+1,44253,Late delivery
+1,46098,Late delivery
+1,71077,Late delivery
+1,69703,Late delivery
+1,71112,Late delivery
+1,69810,Late delivery
+1,71092,Late delivery
+1,69610,Late delivery
+1,71000,Late delivery
+1,70734,Late delivery
+0,69626,Shipping on time
+1,69482,Late delivery
+1,70769,Late delivery
+1,69643,Late delivery
+0,71051,Shipping on time
+1,69408,Late delivery
+1,71123,Late delivery
+1,70534,Late delivery
+0,69641,Shipping on time
+1,70960,Late delivery
+1,69908,Late delivery
+1,70957,Late delivery
+1,69637,Late delivery
+1,70955,Late delivery
+1,70919,Late delivery
+1,71009,Late delivery
+1,69653,Late delivery
+1,69527,Late delivery
+1,71080,Late delivery
+1,70544,Late delivery
+0,69471,Shipping on time
+1,68879,Late delivery
+1,67214,Late delivery
+1,17810,Late delivery
+1,18793,Late delivery
+1,65109,Late delivery
+1,15673,Late delivery
+1,18183,Late delivery
+1,20234,Late delivery
+1,13139,Late delivery
+0,33824,Shipping canceled
+0,31364,Shipping canceled
+0,40495,Shipping canceled
+0,34506,Shipping canceled
+0,33607,Shipping canceled
+0,32617,Shipping canceled
+0,37496,Shipping canceled
+0,49075,Shipping canceled
+0,41623,Shipping canceled
+0,39271,Shipping canceled
+0,38598,Shipping canceled
+0,37845,Shipping canceled
+0,42331,Shipping canceled
+0,41345,Shipping canceled
+0,51168,Shipping canceled
+0,43599,Shipping canceled
+0,41901,Shipping canceled
+0,42751,Advance shipping
+0,45088,Shipping on time
+1,50489,Late delivery
+1,44409,Late delivery
+0,42101,Advance shipping
+1,50424,Late delivery
+1,49825,Late delivery
+1,41294,Late delivery
+0,42023,Shipping on time
+1,47774,Late delivery
+0,41827,Advance shipping
+0,47193,Shipping on time
+0,42626,Advance shipping
+1,46199,Late delivery
+0,48468,Shipping on time
+1,51009,Late delivery
+1,46229,Late delivery
+0,42882,Advance shipping
+0,46827,Advance shipping
+1,48684,Late delivery
+0,46416,Advance shipping
+0,47343,Shipping on time
+0,41686,Advance shipping
+0,41896,Advance shipping
+0,28168,Shipping on time
+0,24992,Advance shipping
+0,30851,Advance shipping
+1,25074,Late delivery
+1,76870,Late delivery
+0,25163,Shipping on time
+0,28036,Advance shipping
+1,22679,Late delivery
+1,23610,Late delivery
+0,42828,Shipping on time
+0,48713,Shipping on time
+0,45668,Shipping on time
+0,74796,Advance shipping
+0,27918,Shipping on time
+0,30097,Advance shipping
+0,30966,Advance shipping
+0,30063,Shipping on time
+1,22019,Late delivery
+1,24230,Late delivery
+0,42353,Shipping on time
+1,42134,Late delivery
+0,21522,Advance shipping
+0,23767,Advance shipping
+0,25433,Shipping on time
+0,73893,Shipping on time
+1,30085,Late delivery
+0,30172,Advance shipping
+0,27478,Shipping on time
+0,76976,Advance shipping
+0,24063,Shipping on time
+1,51209,Late delivery
+1,73839,Late delivery
+0,74723,Shipping on time
+0,26821,Advance shipping
+0,77102,Advance shipping
+0,41608,Shipping on time
+1,47009,Late delivery
+0,49916,Advance shipping
+0,29746,Advance shipping
+0,72533,Shipping on time
+0,48608,Shipping on time
+0,45506,Advance shipping
+0,45027,Advance shipping
+0,46308,Shipping on time
+1,43685,Late delivery
+0,41893,Shipping on time
+1,46339,Late delivery
+0,46667,Advance shipping
+0,47647,Advance shipping
+1,48565,Late delivery
+1,43889,Late delivery
+0,45138,Shipping on time
+1,44160,Late delivery
+1,49214,Late delivery
+1,41825,Late delivery
+1,44504,Late delivery
+0,44496,Advance shipping
+1,45559,Late delivery
+1,44074,Late delivery
+0,49857,Advance shipping
+0,41786,Advance shipping
+0,48042,Advance shipping
+0,44301,Advance shipping
+0,41591,Advance shipping
+0,44981,Advance shipping
+1,41545,Late delivery
+1,49910,Late delivery
+1,19590,Late delivery
+1,43650,Late delivery
+0,15202,Advance shipping
+0,15462,Advance shipping
+1,15155,Late delivery
+0,64451,Advance shipping
+0,67028,Shipping on time
+0,62336,Advance shipping
+1,11334,Late delivery
+1,62885,Late delivery
+0,66998,Shipping on time
+0,47002,Advance shipping
+1,63445,Late delivery
+0,67566,Advance shipping
+1,18884,Late delivery
+1,18845,Late delivery
+1,66854,Late delivery
+1,46955,Late delivery
+0,55002,Advance shipping
+1,60445,Late delivery
+0,53586,Advance shipping
+0,56618,Shipping on time
+1,51865,Late delivery
+0,2937,Advance shipping
+0,54446,Advance shipping
+0,58623,Shipping on time
+0,7411,Advance shipping
+0,5348,Shipping on time
+0,59742,Advance shipping
+0,59498,Shipping on time
+1,3459,Late delivery
+1,8470,Late delivery
+1,53455,Late delivery
+1,2014,Late delivery
+1,55899,Late delivery
+0,52582,Advance shipping
+0,56222,Advance shipping
+1,57829,Late delivery
+0,56217,Advance shipping
+0,5893,Shipping on time
+0,5528,Shipping on time
+0,367,Advance shipping
+0,52353,Shipping on time
+1,1784,Late delivery
+0,60317,Advance shipping
+0,6776,Advance shipping
+0,4487,Advance shipping
+0,9681,Advance shipping
+0,60868,Shipping on time
+0,53231,Advance shipping
+0,52601,Advance shipping
+1,4660,Late delivery
+1,3539,Late delivery
+0,54488,Shipping on time
+1,52549,Late delivery
+0,60361,Advance shipping
+0,5712,Advance shipping
+1,9309,Late delivery
+1,8095,Late delivery
+0,75892,Advance shipping
+0,75891,Advance shipping
+1,75890,Late delivery
+1,75889,Late delivery
+0,75888,Shipping on time
+0,75887,Advance shipping
+0,75886,Shipping canceled
+1,75885,Late delivery
+1,75884,Late delivery
+1,75883,Late delivery
+0,75882,Advance shipping
+0,75881,Advance shipping
+1,75880,Late delivery
+1,75879,Late delivery
+0,75878,Shipping on time
+0,75877,Advance shipping
+0,75876,Advance shipping
+1,75875,Late delivery
+1,75874,Late delivery
+0,75873,Shipping on time
+0,75872,Advance shipping
+1,75871,Late delivery
+1,75870,Late delivery
+1,75869,Late delivery
+1,75868,Late delivery
+0,75867,Shipping on time
+0,75866,Shipping on time
+0,75865,Shipping on time
+1,75864,Late delivery
+0,75863,Shipping on time
+0,75862,Advance shipping
+0,75861,Advance shipping
+1,75860,Late delivery
+0,75859,Shipping canceled
+1,75858,Late delivery
+0,75857,Advance shipping
+0,75856,Shipping on time
+1,75855,Late delivery
+1,75854,Late delivery
+1,75853,Late delivery
+0,75852,Advance shipping
+0,75851,Advance shipping
+1,75850,Late delivery
+1,75849,Late delivery
+1,75848,Late delivery
+0,75847,Shipping canceled
+0,75846,Advance shipping
+1,75845,Late delivery
+1,75844,Late delivery
+1,75843,Late delivery
+0,75842,Advance shipping
+0,75841,Advance shipping
+1,75840,Late delivery
+1,75839,Late delivery
+1,75838,Late delivery
+1,75837,Late delivery
+0,75836,Shipping on time
+1,75835,Late delivery
+1,75834,Late delivery
+1,75833,Late delivery
+1,75832,Late delivery
+1,75831,Late delivery
+1,75830,Late delivery
+1,75829,Late delivery
+0,75828,Shipping on time
+0,75827,Advance shipping
+0,75826,Advance shipping
+1,75825,Late delivery
+1,75824,Late delivery
+0,75823,Shipping on time
+0,75822,Advance shipping
+0,75821,Advance shipping
+1,75820,Late delivery
+1,75819,Late delivery
+0,75818,Shipping on time
+0,75817,Advance shipping
+0,75816,Advance shipping
+1,75815,Late delivery
+1,75814,Late delivery
+1,75813,Late delivery
+1,75812,Late delivery
+1,75811,Late delivery
+1,75810,Late delivery
+1,75809,Late delivery
+1,75808,Late delivery
+1,75807,Late delivery
+1,75806,Late delivery
+1,75805,Late delivery
+1,75804,Late delivery
+1,75803,Late delivery
+0,75802,Shipping canceled
+1,75801,Late delivery
+1,75800,Late delivery
+1,75799,Late delivery
+0,75798,Shipping on time
+0,75797,Advance shipping
+1,3130,Late delivery
+0,49521,Shipping on time
+1,30305,Late delivery
+1,27772,Late delivery
+0,31296,Shipping on time
+0,22076,Shipping on time
+1,25665,Late delivery
+1,22819,Late delivery
+1,27099,Late delivery
+1,28292,Late delivery
+1,39159,Late delivery
+0,34631,Shipping on time
+1,37669,Late delivery
+1,40085,Late delivery
+1,47262,Late delivery
+0,44771,Shipping on time
+1,13890,Late delivery
+0,17071,Shipping on time
+0,11321,Shipping on time
+0,11936,Shipping on time
+1,68337,Late delivery
+0,45746,Shipping on time
+0,13736,Shipping on time
+1,49622,Late delivery
+1,19444,Late delivery
+0,51911,Shipping on time
+1,58239,Late delivery
+1,56678,Late delivery
+1,53202,Late delivery
+1,58738,Late delivery
+1,56260,Late delivery
+1,5042,Late delivery
+0,55511,Shipping on time
+1,54128,Late delivery
+1,21244,Late delivery
+1,31239,Late delivery
+1,45772,Late delivery
+0,24661,Shipping on time
+1,22924,Late delivery
+1,21902,Late delivery
+1,21534,Late delivery
+1,24160,Late delivery
+1,32102,Late delivery
+1,37763,Late delivery
+1,37867,Late delivery
+1,31905,Late delivery
+1,36269,Late delivery
+1,48374,Late delivery
+1,17719,Late delivery
+0,15766,Shipping on time
+1,12179,Late delivery
+1,66275,Late delivery
+1,13140,Late delivery
+1,16444,Late delivery
+1,14454,Late delivery
+1,67979,Late delivery
+1,65264,Late delivery
+0,51226,Shipping on time
+0,52576,Shipping on time
+1,67753,Late delivery
+0,15421,Shipping on time
+1,13225,Late delivery
+1,71362,Late delivery
+1,13232,Late delivery
+1,65487,Late delivery
+1,65105,Late delivery
+1,14837,Late delivery
+1,46224,Late delivery
+1,71217,Late delivery
+1,63972,Late delivery
+1,19200,Late delivery
+1,18009,Late delivery
+0,10831,Shipping on time
+1,68107,Late delivery
+0,71271,Shipping on time
+1,16953,Late delivery
+1,49664,Late delivery
+0,16446,Shipping on time
+1,14960,Late delivery
+1,18005,Late delivery
+1,12804,Late delivery
+0,14651,Shipping on time
+1,10990,Late delivery
+1,65609,Late delivery
+1,17878,Late delivery
+1,16998,Late delivery
+1,13970,Late delivery
+1,13614,Late delivery
+1,44388,Late delivery
+1,13050,Late delivery
+1,12613,Late delivery
+1,66587,Late delivery
+1,62795,Late delivery
+1,18950,Late delivery
+1,19610,Late delivery
+0,65011,Shipping on time
+1,19380,Late delivery
+1,65005,Late delivery
+1,20085,Late delivery
+1,18245,Late delivery
+1,19817,Late delivery
+1,10444,Late delivery
+1,64637,Late delivery
+1,15269,Late delivery
+1,14064,Late delivery
+0,14551,Shipping on time
+1,12698,Late delivery
+1,47758,Late delivery
+1,68220,Late delivery
+1,14730,Late delivery
+0,66411,Shipping on time
+1,12535,Late delivery
+1,67712,Late delivery
+1,18593,Late delivery
+1,17909,Late delivery
+1,16302,Late delivery
+1,13343,Late delivery
+1,62117,Late delivery
+1,62637,Late delivery
+1,67845,Late delivery
+1,11209,Late delivery
+1,41494,Late delivery
+1,70044,Late delivery
+1,16617,Late delivery
+1,14574,Late delivery
+1,15599,Late delivery
+1,20072,Late delivery
+1,12323,Late delivery
+1,71295,Late delivery
+0,66351,Shipping on time
+1,44148,Late delivery
+1,53540,Late delivery
+1,57570,Late delivery
+1,5154,Late delivery
+0,9122,Advance shipping
+0,4427,Advance shipping
+1,9340,Late delivery
+0,9331,Advance shipping
+1,58315,Late delivery
+0,54572,Advance shipping
+0,51746,Advance shipping
+1,4269,Late delivery
+0,61346,Advance shipping
+1,1999,Late delivery
+0,53576,Advance shipping
+0,57152,Advance shipping
+1,51674,Late delivery
+0,55336,Advance shipping
+1,53810,Late delivery
+0,59301,Advance shipping
+1,8410,Late delivery
+0,8123,Shipping on time
+0,60567,Advance shipping
+0,3527,Advance shipping
+0,2428,Shipping on time
+1,55174,Late delivery
+0,57032,Advance shipping
+0,10113,Shipping on time
+1,52250,Late delivery
+0,8906,Advance shipping
+0,1386,Advance shipping
+0,59226,Advance shipping
+0,8847,Advance shipping
+1,57929,Late delivery
+1,53505,Late delivery
+0,55636,Advance shipping
+0,57128,Shipping on time
+0,8728,Shipping on time
+1,1105,Late delivery
+0,1797,Advance shipping
+1,1634,Late delivery
+0,6176,Shipping canceled
+0,60460,Shipping canceled
+0,580,Shipping canceled
+0,56244,Shipping canceled
+0,6522,Shipping canceled
+0,58298,Shipping canceled
+0,3625,Shipping canceled
+0,52321,Shipping canceled
+0,58896,Shipping canceled
+0,5919,Shipping canceled
+0,52772,Shipping canceled
+0,9063,Shipping canceled
+0,61419,Shipping canceled
+0,27742,Shipping canceled
+0,24453,Shipping canceled
+0,31145,Shipping canceled
+0,30802,Advance shipping
+1,25875,Late delivery
+1,30589,Late delivery
+0,20931,Advance shipping
+0,45646,Advance shipping
+0,29731,Advance shipping
+0,42777,Advance shipping
+0,23886,Advance shipping
+0,43561,Advance shipping
+0,47846,Advance shipping
+0,21192,Advance shipping
+0,23156,Advance shipping
+0,22811,Advance shipping
+0,25418,Shipping on time
+0,47092,Advance shipping
+0,42658,Shipping on time
+1,23494,Late delivery
+0,27316,Advance shipping
+1,27555,Late delivery
+0,28657,Advance shipping
+0,47011,Advance shipping
+0,21973,Shipping on time
+0,50226,Advance shipping
+0,44617,Advance shipping
+0,21196,Advance shipping
+0,21193,Shipping on time
+0,26073,Shipping on time
+1,44425,Late delivery
+1,49570,Late delivery
+1,42099,Late delivery
+0,47731,Advance shipping
+0,46062,Advance shipping
+0,44938,Shipping on time
+0,50688,Shipping on time
+1,49445,Late delivery
+0,47938,Shipping on time
+1,45249,Late delivery
+1,41874,Late delivery
+0,41572,Advance shipping
+1,41785,Late delivery
+0,42971,Advance shipping
+0,44677,Advance shipping
+0,43266,Advance shipping
+0,47917,Advance shipping
+0,48901,Advance shipping
+0,44265,Shipping canceled
+0,41590,Shipping canceled
+0,45987,Shipping canceled
+0,44452,Shipping canceled
+0,49218,Shipping canceled
+0,47840,Shipping canceled
+0,47493,Shipping canceled
+0,64274,Shipping canceled
+0,13298,Shipping canceled
+0,62786,Shipping canceled
+0,13939,Shipping canceled
+0,46864,Shipping canceled
+0,16590,Shipping canceled
+0,62840,Shipping canceled
+0,66959,Shipping canceled
+0,63220,Shipping canceled
+0,19642,Shipping canceled
+0,65439,Shipping canceled
+0,17363,Shipping canceled
+0,18237,Shipping canceled
+0,66958,Shipping canceled
+0,66764,Shipping canceled
+0,48193,Shipping canceled
+0,15231,Advance shipping
+0,10451,Advance shipping
+1,10459,Late delivery
+0,64222,Advance shipping
+0,63907,Advance shipping
+0,19178,Shipping on time
+0,67046,Advance shipping
+0,65312,Advance shipping
+0,16436,Advance shipping
+0,11822,Advance shipping
+0,19528,Shipping on time
+0,49763,Shipping on time
+0,16013,Shipping on time
+0,17347,Advance shipping
+0,19496,Advance shipping
+1,62789,Late delivery
+1,11674,Late delivery
+0,67866,Advance shipping
+1,13599,Late delivery
+1,10384,Late delivery
+1,63115,Late delivery
+0,63516,Advance shipping
+0,62086,Advance shipping
+0,62817,Advance shipping
+0,10856,Advance shipping
+1,14685,Late delivery
+1,66229,Late delivery
+1,14924,Late delivery
+1,49839,Late delivery
+0,12393,Shipping on time
+0,65898,Shipping on time
+1,64599,Late delivery
+1,65370,Late delivery
+0,19732,Advance shipping
+1,67549,Late delivery
+1,67275,Late delivery
+0,46863,Shipping on time
+0,62306,Advance shipping
+0,18213,Shipping on time
+0,16863,Shipping on time
+1,24764,Late delivery
+1,26670,Late delivery
+0,21971,Advance shipping
+1,76849,Late delivery
+0,27357,Advance shipping
+0,29283,Shipping on time
+1,30724,Late delivery
+1,74454,Late delivery
+0,24558,Shipping on time
+0,23211,Advance shipping
+0,21868,Shipping on time
+0,42271,Advance shipping
+0,50628,Shipping on time
+0,21907,Advance shipping
+0,72442,Advance shipping
+0,21966,Advance shipping
+1,31169,Late delivery
+0,21906,Advance shipping
+1,72460,Late delivery
+0,26861,Advance shipping
+0,76992,Advance shipping
+0,22792,Advance shipping
+0,24438,Shipping on time
+0,27957,Advance shipping
+1,47899,Late delivery
+1,22900,Late delivery
+0,30997,Advance shipping
+0,26183,Shipping on time
+1,24314,Late delivery
+0,21267,Advance shipping
+0,30712,Advance shipping
+0,27207,Advance shipping
+0,76847,Advance shipping
+0,21407,Advance shipping
+1,25050,Late delivery
+0,23807,Advance shipping
+1,21349,Late delivery
+1,22224,Late delivery
+0,49806,Advance shipping
+1,47044,Late delivery
+0,41676,Advance shipping
+0,49598,Shipping on time
+1,42130,Late delivery
+0,26036,Advance shipping
+0,27457,Advance shipping
+1,21309,Late delivery
+0,23267,Advance shipping
+0,23706,Advance shipping
+1,27729,Late delivery
+1,30519,Late delivery
+0,30658,Shipping on time
+0,30323,Shipping on time
+1,30044,Late delivery
+1,74194,Late delivery
+0,72458,Shipping on time
+0,74451,Advance shipping
+0,22297,Advance shipping
+0,24552,Advance shipping
+0,44706,Advance shipping
+1,48950,Late delivery
+1,47600,Late delivery
+0,43257,Advance shipping
+0,49888,Shipping on time
+0,24752,Advance shipping
+0,24548,Shipping on time
+0,73906,Advance shipping
+1,28355,Late delivery
+0,23456,Advance shipping
+0,74193,Shipping on time
+0,50466,Advance shipping
+0,50377,Advance shipping
+1,61855,Late delivery
+1,67415,Late delivery
+1,66794,Late delivery
+0,17467,Advance shipping
+1,16419,Late delivery
+1,65249,Late delivery
+1,17449,Late delivery
+0,63803,Shipping on time
+1,16969,Late delivery
+1,16369,Late delivery
+0,66702,Advance shipping
+1,10584,Late delivery
+0,17368,Shipping on time
+0,20291,Advance shipping
+1,14384,Late delivery
+0,64066,Advance shipping
+0,67292,Advance shipping
+1,65855,Late delivery
+0,64531,Advance shipping
+0,19168,Shipping on time
+1,16299,Late delivery
+0,17228,Shipping on time
+1,68289,Late delivery
+1,47509,Late delivery
+0,17211,Advance shipping
+1,64894,Late delivery
+0,67818,Shipping on time
+0,16218,Shipping on time
+0,11391,Advance shipping
+0,17386,Advance shipping
+0,11968,Shipping on time
+1,46305,Late delivery
+0,19973,Shipping on time
+0,15787,Advance shipping
+0,11378,Shipping on time
+1,62260,Late delivery
+0,11083,Shipping on time
+1,65174,Late delivery
+0,44442,Advance shipping
+0,42783,Shipping on time
+0,64677,Advance shipping
+1,66219,Late delivery
+0,44816,Advance shipping
+0,10502,Advance shipping
+0,63843,Shipping on time
+0,62237,Advance shipping
+0,13907,Advance shipping
+0,63576,Advance shipping
+0,18448,Shipping on time
+1,17524,Late delivery
+0,19333,Shipping on time
+1,64150,Late delivery
+1,64920,Late delivery
+0,16378,Shipping on time
+0,67331,Advance shipping
+0,67037,Advance shipping
+1,63349,Late delivery
+1,19309,Late delivery
+0,49936,Advance shipping
+1,11749,Late delivery
+0,16767,Advance shipping
+1,61664,Late delivery
+0,63512,Advance shipping
+0,17726,Advance shipping
+1,12540,Late delivery
+1,14100,Late delivery
+0,16098,Shipping on time
+1,14660,Late delivery
+0,41718,Shipping on time
+1,64500,Late delivery
+0,10586,Advance shipping
+0,45291,Advance shipping
+1,15459,Late delivery
+0,16093,Shipping on time
+0,61596,Advance shipping
+1,68374,Late delivery
+0,50588,Shipping on time
+0,42087,Advance shipping
+0,13528,Shipping on time
+1,18135,Late delivery
+1,15199,Late delivery
+1,68369,Late delivery
+1,46859,Late delivery
+0,63992,Advance shipping
+1,18120,Late delivery
+1,14544,Late delivery
+0,13991,Advance shipping
+0,906,Advance shipping
+1,5479,Late delivery
+0,51396,Advance shipping
+0,10116,Shipping canceled
+0,1756,Shipping canceled
+0,10014,Shipping canceled
+0,1991,Shipping canceled
+0,52533,Shipping canceled
+0,2332,Shipping canceled
+0,10276,Shipping canceled
+0,2911,Shipping canceled
+0,53568,Shipping canceled
+0,25688,Shipping canceled
+0,48954,Shipping canceled
+0,47743,Shipping canceled
+0,45339,Shipping canceled
+0,43521,Advance shipping
+0,22468,Shipping on time
+1,29880,Late delivery
+0,21197,Advance shipping
+0,22261,Advance shipping
+0,24853,Shipping on time
+1,23585,Late delivery
+0,30963,Shipping on time
+0,24118,Shipping on time
+0,42287,Advance shipping
+0,21697,Advance shipping
+0,21691,Advance shipping
+0,23878,Shipping on time
+1,30214,Late delivery
+0,29871,Advance shipping
+1,20594,Late delivery
+0,29107,Advance shipping
+0,21698,Shipping on time
+0,20918,Shipping on time
+1,29959,Late delivery
+0,45126,Advance shipping
+0,26871,Advance shipping
+0,23751,Advance shipping
+0,22612,Advance shipping
+0,29862,Advance shipping
+1,20755,Late delivery
+0,30267,Advance shipping
+0,31211,Advance shipping
+0,27007,Advance shipping
+0,46073,Shipping on time
+1,26510,Late delivery
+0,43468,Shipping on time
+1,31000,Late delivery
+0,22988,Shipping on time
+0,29993,Shipping on time
+0,28568,Shipping on time
+0,20773,Shipping on time
+1,43640,Late delivery
+0,23967,Advance shipping
+0,21016,Advance shipping
+1,27005,Late delivery
+0,25606,Advance shipping
+1,30335,Late delivery
+1,29270,Late delivery
+1,31269,Late delivery
+1,24820,Late delivery
+0,25847,Advance shipping
+1,42154,Late delivery
+0,45036,Advance shipping
+0,45863,Shipping on time
+1,20929,Late delivery
+1,23464,Late delivery
+0,44316,Advance shipping
+0,27647,Advance shipping
+0,24878,Shipping on time
+0,42152,Advance shipping
+0,46401,Advance shipping
+1,48844,Late delivery
+0,22481,Advance shipping
+0,30713,Shipping on time
+0,31018,Shipping on time
+0,75796,Shipping on time
+1,75795,Late delivery
+1,75794,Late delivery
+0,75793,Shipping on time
+0,75792,Advance shipping
+0,75791,Shipping on time
+1,75790,Late delivery
+1,75789,Late delivery
+1,75788,Late delivery
+1,75787,Late delivery
+1,75786,Late delivery
+1,75785,Late delivery
+1,75784,Late delivery
+0,75783,Shipping on time
+0,75782,Advance shipping
+0,75781,Advance shipping
+0,75780,Shipping canceled
+1,75779,Late delivery
+1,75778,Late delivery
+1,75777,Late delivery
+1,75776,Late delivery
+1,75775,Late delivery
+1,75774,Late delivery
+1,75773,Late delivery
+1,75772,Late delivery
+0,75771,Shipping on time
+1,75770,Late delivery
+1,75769,Late delivery
+0,75768,Shipping on time
+0,75767,Advance shipping
+0,75766,Advance shipping
+1,75765,Late delivery
+1,75764,Late delivery
+1,75763,Late delivery
+1,75762,Late delivery
+0,75761,Shipping on time
+1,75760,Late delivery
+1,75759,Late delivery
+1,75758,Late delivery
+0,75757,Advance shipping
+0,75756,Advance shipping
+1,75755,Late delivery
+1,75754,Late delivery
+1,75753,Late delivery
+0,75752,Advance shipping
+0,75751,Advance shipping
+1,75750,Late delivery
+0,75749,Shipping canceled
+1,75748,Late delivery
+1,75747,Late delivery
+0,75746,Advance shipping
+1,75745,Late delivery
+1,75744,Late delivery
+0,75743,Shipping on time
+0,75742,Shipping canceled
+0,75741,Advance shipping
+1,75740,Late delivery
+1,75739,Late delivery
+0,75738,Shipping on time
+0,75737,Advance shipping
+0,75736,Advance shipping
+1,75735,Late delivery
+1,75734,Late delivery
+1,75733,Late delivery
+0,75732,Advance shipping
+0,75731,Advance shipping
+1,75730,Late delivery
+0,75729,Shipping canceled
+0,73221,Advance shipping
+1,73220,Late delivery
+1,73219,Late delivery
+0,73218,Shipping on time
+0,73217,Advance shipping
+0,73216,Advance shipping
+1,73215,Late delivery
+1,73214,Late delivery
+1,73213,Late delivery
+0,73212,Advance shipping
+0,73211,Advance shipping
+1,73210,Late delivery
+1,73209,Late delivery
+0,73208,Shipping on time
+0,73207,Advance shipping
+1,73206,Late delivery
+1,73205,Late delivery
+1,73204,Late delivery
+1,73203,Late delivery
+0,73202,Advance shipping
+0,73201,Advance shipping
+1,73200,Late delivery
+1,73199,Late delivery
+0,73198,Shipping on time
+0,73197,Advance shipping
+0,73196,Shipping on time
+1,73195,Late delivery
+1,73194,Late delivery
+1,73193,Late delivery
+0,73192,Advance shipping
+0,73191,Shipping on time
+1,73190,Late delivery
+1,73189,Late delivery
+1,73188,Late delivery
+0,73187,Advance shipping
+0,73186,Shipping canceled
+1,73185,Late delivery
+1,73184,Late delivery
+0,73183,Shipping on time
+0,73182,Shipping on time
+0,73181,Advance shipping
+1,73180,Late delivery
+1,73179,Late delivery
+0,73178,Shipping on time
+0,73177,Advance shipping
+0,73176,Advance shipping
+1,73175,Late delivery
+0,73174,Shipping canceled
+0,73173,Shipping on time
+0,73172,Advance shipping
+0,73171,Advance shipping
+1,73170,Late delivery
+1,73169,Late delivery
+0,73168,Shipping canceled
+0,73167,Advance shipping
+0,73166,Advance shipping
+1,73165,Late delivery
+1,73164,Late delivery
+1,73163,Late delivery
+1,73162,Late delivery
+0,73161,Advance shipping
+1,73160,Late delivery
+1,73159,Late delivery
+0,73158,Shipping on time
+0,73157,Advance shipping
+1,73156,Late delivery
+1,73155,Late delivery
+1,73154,Late delivery
+0,73153,Shipping on time
+0,73152,Advance shipping
+0,73151,Advance shipping
+1,73150,Late delivery
+1,73149,Late delivery
+0,73148,Shipping on time
+0,73147,Advance shipping
+0,73146,Shipping on time
+1,73145,Late delivery
+1,73144,Late delivery
+0,73143,Shipping on time
+0,73142,Advance shipping
+0,73141,Advance shipping
+1,73140,Late delivery
+1,73139,Late delivery
+0,73138,Shipping on time
+0,73137,Shipping canceled
+0,73136,Advance shipping
+0,73135,Shipping canceled
+1,73134,Late delivery
+1,73133,Late delivery
+0,73132,Shipping canceled
+1,73131,Late delivery
+1,73130,Late delivery
+1,73129,Late delivery
+1,73128,Late delivery
+1,73127,Late delivery
+0,73126,Advance shipping
+1,73125,Late delivery
+1,73124,Late delivery
+0,73123,Shipping on time
+0,73122,Advance shipping
+0,73121,Shipping on time
+1,73120,Late delivery
+1,73119,Late delivery
+0,73118,Shipping on time
+0,73117,Advance shipping
+0,73116,Advance shipping
+1,73115,Late delivery
+1,73114,Late delivery
+0,73113,Shipping on time
+0,73112,Advance shipping
+0,73111,Advance shipping
+1,73110,Late delivery
+1,73109,Late delivery
+0,73108,Shipping on time
+1,73107,Late delivery
+0,73106,Advance shipping
+0,73105,Shipping canceled
+1,73104,Late delivery
+1,73103,Late delivery
+1,73102,Late delivery
+0,73101,Shipping on time
+0,73100,Shipping on time
+0,73099,Shipping on time
+0,73098,Shipping on time
+0,73097,Advance shipping
+1,4135,Late delivery
+1,56357,Late delivery
+0,6326,Shipping on time
+1,3975,Late delivery
+1,8163,Late delivery
+1,3987,Late delivery
+1,8578,Late delivery
+0,55906,Shipping on time
+1,10164,Late delivery
+1,28193,Late delivery
+0,30921,Shipping on time
+1,20529,Late delivery
+1,31697,Late delivery
+0,37276,Shipping on time
+1,37180,Late delivery
+1,40645,Late delivery
+0,46951,Advance shipping
+1,46725,Late delivery
+0,45198,Shipping on time
+0,45418,Shipping on time
+1,42920,Late delivery
+1,44485,Late delivery
+0,50213,Shipping on time
+0,48622,Advance shipping
+0,49172,Advance shipping
+0,46907,Advance shipping
+0,44027,Advance shipping
+0,43976,Advance shipping
+1,41404,Late delivery
+0,41442,Advance shipping
+1,41640,Late delivery
+1,50000,Late delivery
+0,47908,Shipping on time
+0,41322,Advance shipping
+1,50419,Late delivery
+1,50364,Late delivery
+0,42712,Advance shipping
+1,51110,Late delivery
+0,70617,Advance shipping
+1,64559,Late delivery
+1,64775,Late delivery
+0,67147,Advance shipping
+0,11338,Shipping on time
+1,69160,Late delivery
+1,69830,Late delivery
+0,71131,Advance shipping
+1,69559,Late delivery
+1,69685,Late delivery
+0,69683,Shipping on time
+0,69841,Advance shipping
+0,70978,Shipping on time
+0,69478,Shipping on time
+0,69711,Advance shipping
+0,70746,Advance shipping
+0,69476,Advance shipping
+0,69943,Shipping on time
+0,69817,Advance shipping
+1,69655,Late delivery
+1,70744,Late delivery
+0,67718,Shipping on time
+1,62545,Late delivery
+1,65704,Late delivery
+1,46064,Late delivery
+1,10764,Late delivery
+0,67322,Advance shipping
+0,17506,Advance shipping
+1,63190,Late delivery
+0,20152,Advance shipping
+1,16499,Late delivery
+0,44721,Advance shipping
+1,17755,Late delivery
+1,17055,Late delivery
+0,68546,Advance shipping
+1,70380,Late delivery
+1,71164,Late delivery
+1,19035,Late delivery
+1,17829,Late delivery
+0,70433,Shipping on time
+1,20250,Late delivery
+1,61940,Late delivery
+1,12300,Late delivery
+0,18901,Advance shipping
+0,12218,Shipping on time
+0,42821,Advance shipping
+1,17415,Late delivery
+1,17119,Late delivery
+0,12108,Shipping on time
+1,17889,Late delivery
+1,63120,Late delivery
+1,12845,Late delivery
+0,12778,Shipping on time
+0,15437,Advance shipping
+0,63758,Shipping on time
+0,16111,Advance shipping
+0,13263,Shipping on time
+1,63320,Late delivery
+1,68645,Late delivery
+0,17766,Advance shipping
+1,11655,Late delivery
+1,45390,Late delivery
+1,11494,Late delivery
+1,71195,Late delivery
+0,65866,Advance shipping
+0,20106,Advance shipping
+0,64053,Shipping on time
+0,70086,Advance shipping
+0,13058,Shipping on time
+0,67628,Shipping on time
+0,67082,Advance shipping
+0,11643,Shipping on time
+0,62971,Advance shipping
+1,15835,Late delivery
+0,18133,Shipping on time
+0,19618,Shipping on time
+1,10595,Late delivery
+0,48098,Shipping on time
+1,71189,Late delivery
+0,62342,Advance shipping
+0,16081,Advance shipping
+1,16864,Late delivery
+0,19497,Advance shipping
+1,12354,Late delivery
+1,47369,Late delivery
+1,18235,Late delivery
+1,66035,Late delivery
+1,43032,Late delivery
+1,17582,Late delivery
+1,62603,Late delivery
+0,15746,Shipping on time
+1,63094,Late delivery
+0,11681,Shipping on time
+1,70149,Late delivery
+1,70437,Late delivery
+1,67158,Late delivery
+1,19550,Late delivery
+0,16966,Shipping on time
+1,10580,Late delivery
+1,16228,Late delivery
+1,14250,Late delivery
+1,70112,Late delivery
+1,63398,Late delivery
+1,70058,Late delivery
+1,66289,Late delivery
+1,62845,Late delivery
+1,63660,Late delivery
+1,19665,Late delivery
+0,47321,Shipping on time
+1,63303,Late delivery
+1,19583,Late delivery
+1,10317,Late delivery
+0,66766,Shipping on time
+1,11038,Late delivery
+1,67968,Late delivery
+1,17465,Late delivery
+1,11427,Late delivery
+1,12415,Late delivery
+1,19213,Late delivery
+0,18156,Shipping on time
+1,12828,Late delivery
+1,67034,Late delivery
+0,67786,Shipping on time
+1,64705,Late delivery
+1,66758,Late delivery
+0,15751,Shipping on time
+0,11251,Shipping on time
+1,12224,Late delivery
+1,19555,Late delivery
+1,18692,Late delivery
+1,64362,Late delivery
+1,17770,Late delivery
+1,15845,Late delivery
+1,14965,Late delivery
+0,48141,Shipping on time
+1,18857,Late delivery
+0,10961,Shipping on time
+1,17877,Late delivery
+0,20246,Shipping on time
+1,15884,Late delivery
+1,18343,Late delivery
+1,18387,Late delivery
+1,62193,Late delivery
+1,64292,Late delivery
+1,11513,Late delivery
+0,11076,Shipping on time
+1,49507,Late delivery
+1,63107,Late delivery
+1,14193,Late delivery
+1,69057,Late delivery
+0,68996,Shipping on time
+1,68977,Late delivery
+1,69170,Late delivery
+1,71517,Late delivery
+1,71533,Late delivery
+1,71515,Late delivery
+1,71473,Late delivery
+0,71471,Shipping on time
+1,69285,Late delivery
+1,69302,Late delivery
+1,71450,Late delivery
+1,71038,Late delivery
+1,70795,Late delivery
+1,12264,Late delivery
+1,61983,Late delivery
+1,16555,Late delivery
+1,19840,Late delivery
+1,62003,Late delivery
+1,19544,Late delivery
+1,71215,Late delivery
+1,19885,Late delivery
+0,19126,Shipping on time
+1,15749,Late delivery
+1,17999,Late delivery
+1,64163,Late delivery
+1,15784,Late delivery
+1,61647,Late delivery
+1,12867,Late delivery
+1,70279,Late delivery
+0,18736,Shipping on time
+1,62072,Late delivery
+1,15530,Late delivery
+0,19501,Shipping on time
+1,11110,Late delivery
+1,68084,Late delivery
+1,11152,Late delivery
+1,14612,Late delivery
+0,19131,Shipping on time
+1,56317,Late delivery
+1,52407,Late delivery
+1,8455,Late delivery
+1,10253,Late delivery
+0,53816,Shipping on time
+1,1077,Late delivery
+1,56037,Late delivery
+1,7884,Late delivery
+0,66868,Shipping on time
+1,68330,Late delivery
+0,18001,Advance shipping
+1,16464,Late delivery
+1,10869,Late delivery
+1,17490,Late delivery
+0,61888,Shipping on time
+0,68871,Advance shipping
+0,65141,Advance shipping
+0,11882,Advance shipping
+1,17984,Late delivery
+1,66519,Late delivery
+0,65453,Shipping on time
+0,11107,Advance shipping
+0,16877,Advance shipping
+0,65048,Shipping on time
+0,19442,Advance shipping
+0,13217,Advance shipping
+0,19116,Advance shipping
+1,13215,Late delivery
+0,13943,Shipping on time
+0,15443,Shipping on time
+0,62523,Shipping on time
+1,67079,Late delivery
+0,65901,Advance shipping
+1,19800,Late delivery
+0,64692,Advance shipping
+0,10676,Advance shipping
+1,13790,Late delivery
+0,14957,Advance shipping
+1,19024,Late delivery
+0,17683,Shipping on time
+0,15078,Shipping on time
+0,49878,Shipping on time
+0,67066,Advance shipping
+1,65430,Late delivery
+0,67246,Advance shipping
+0,46677,Advance shipping
+0,16107,Advance shipping
+1,11305,Late delivery
+0,15228,Shipping on time
+0,16852,Advance shipping
+0,64892,Advance shipping
+1,47199,Late delivery
+0,15042,Advance shipping
+0,62527,Advance shipping
+0,62197,Advance shipping
+1,11745,Late delivery
+0,19702,Advance shipping
+0,68428,Shipping on time
+1,64065,Late delivery
+0,61612,Advance shipping
+0,64612,Advance shipping
+0,66458,Shipping on time
+1,65015,Late delivery
+0,61997,Advance shipping
+1,11554,Late delivery
+1,45750,Late delivery
+0,61826,Advance shipping
+1,11529,Late delivery
+1,64054,Late delivery
+1,14474,Late delivery
+0,67988,Shipping on time
+0,11948,Shipping on time
+1,15380,Late delivery
+1,10814,Late delivery
+1,14179,Late delivery
+1,15819,Late delivery
+1,13179,Late delivery
+1,68700,Late delivery
+1,17814,Late delivery
+0,18926,Advance shipping
+1,65050,Late delivery
+0,18923,Shipping on time
+1,66760,Late delivery
+1,12075,Late delivery
+0,19122,Advance shipping
+0,11636,Advance shipping
+1,63920,Late delivery
+0,63182,Advance shipping
+0,65582,Advance shipping
+1,68804,Late delivery
+1,42739,Late delivery
+0,11558,Shipping on time
+1,10759,Late delivery
+1,47429,Late delivery
+1,19775,Late delivery
+0,66887,Advance shipping
+1,15655,Late delivery
+1,18019,Late delivery
+0,15152,Advance shipping
+0,14363,Shipping on time
+1,17520,Late delivery
+1,15979,Late delivery
+0,12158,Shipping on time
+1,63170,Late delivery
+1,11885,Late delivery
+1,12529,Late delivery
+1,62130,Late delivery
+0,65701,Advance shipping
+1,65965,Late delivery
+1,50835,Late delivery
+0,63546,Advance shipping
+1,15524,Late delivery
+1,48595,Late delivery
+0,46306,Advance shipping
+1,66669,Late delivery
+0,15487,Advance shipping
+1,66489,Late delivery
+0,66001,Advance shipping
+0,14482,Advance shipping
+1,15029,Late delivery
+0,15803,Shipping on time
+0,11851,Advance shipping
+1,64369,Late delivery
+0,63792,Advance shipping
+0,67806,Advance shipping
+0,18036,Advance shipping
+0,18482,Advance shipping
+1,62470,Late delivery
+0,63377,Advance shipping
+1,45455,Late delivery
+1,43964,Late delivery
+1,63999,Late delivery
+0,16557,Advance shipping
+1,16955,Late delivery
+0,14210,Shipping canceled
+0,61848,Shipping canceled
+0,16811,Shipping canceled
+0,62419,Shipping canceled
+0,66636,Shipping canceled
+0,43551,Shipping canceled
+0,16459,Shipping canceled
+0,16075,Shipping canceled
+0,18617,Shipping canceled
+0,17436,Shipping canceled
+0,19540,Shipping canceled
+0,65827,Shipping canceled
+0,13521,Shipping canceled
+0,64211,Shipping canceled
+0,68111,Shipping canceled
+0,62596,Shipping canceled
+0,15278,Shipping canceled
+0,19327,Shipping canceled
+0,17104,Shipping canceled
+0,2887,Shipping canceled
+0,1186,Shipping canceled
+0,8488,Shipping canceled
+0,55000,Shipping canceled
+0,55201,Shipping canceled
+0,1383,Shipping canceled
+0,53581,Shipping canceled
+0,57479,Shipping canceled
+0,738,Shipping canceled
+0,56476,Shipping canceled
+0,24271,Advance shipping
+0,22298,Shipping on time
+1,43739,Late delivery
+1,24594,Late delivery
+0,27586,Advance shipping
+0,46791,Advance shipping
+0,24176,Advance shipping
+1,22044,Late delivery
+0,30388,Shipping on time
+0,43576,Advance shipping
+1,26039,Late delivery
+0,28441,Advance shipping
+0,29181,Advance shipping
+0,28827,Advance shipping
+1,25060,Late delivery
+1,21624,Late delivery
+0,23378,Shipping on time
+1,28249,Late delivery
+0,22926,Advance shipping
+0,29286,Advance shipping
+0,21872,Advance shipping
+1,48334,Late delivery
+0,28866,Advance shipping
+1,26054,Late delivery
+0,27856,Advance shipping
+1,47439,Late delivery
+1,24770,Late delivery
+0,41903,Shipping on time
+0,26402,Advance shipping
+0,28402,Advance shipping
+0,23948,Shipping on time
+0,26436,Advance shipping
+0,27286,Advance shipping
+0,23688,Shipping on time
+1,45380,Late delivery
+1,27530,Late delivery
+0,49693,Shipping on time
+0,30111,Advance shipping
+1,48699,Late delivery
+1,27750,Late delivery
+1,22379,Late delivery
+0,31208,Shipping on time
+1,27689,Late delivery
+1,44514,Late delivery
+0,21837,Advance shipping
+0,25942,Advance shipping
+1,22134,Late delivery
+0,26827,Advance shipping
+0,21941,Advance shipping
+0,28847,Advance shipping
+0,26577,Advance shipping
+1,29995,Late delivery
+0,21312,Advance shipping
+1,20775,Late delivery
+0,28017,Advance shipping
+0,47562,Advance shipping
+1,29490,Late delivery
+0,23571,Advance shipping
+0,30924,Shipping canceled
+0,20507,Shipping canceled
+0,24650,Shipping canceled
+0,30328,Shipping canceled
+0,23302,Shipping canceled
+0,28677,Shipping canceled
+0,30728,Shipping canceled
+0,37718,Shipping canceled
+0,34977,Shipping canceled
+0,40138,Shipping canceled
+0,40776,Shipping canceled
+0,39582,Shipping canceled
+0,34284,Shipping canceled
+0,41142,Shipping canceled
+0,41287,Shipping canceled
+0,35651,Shipping canceled
+0,32566,Advance shipping
+1,39300,Late delivery
+1,40654,Late delivery
+0,39551,Advance shipping
+1,35389,Late delivery
+0,32257,Advance shipping
+0,49031,Advance shipping
+1,32224,Late delivery
+0,38411,Advance shipping
+0,48282,Advance shipping
+1,40949,Late delivery
+0,31917,Advance shipping
+0,39991,Advance shipping
+0,44802,Advance shipping
+0,40766,Advance shipping
+1,36495,Late delivery
+1,37945,Late delivery
+0,33058,Shipping on time
+1,36840,Late delivery
+0,31302,Advance shipping
+0,31738,Shipping on time
+0,35393,Shipping on time
+0,39081,Advance shipping
+0,40716,Advance shipping
+0,41612,Advance shipping
+0,36298,Shipping on time
+1,40634,Late delivery
+1,36654,Late delivery
+0,36636,Advance shipping
+0,47796,Advance shipping
+0,35266,Advance shipping
+1,34089,Late delivery
+0,50571,Advance shipping
+1,46744,Late delivery
+1,36894,Late delivery
+0,39241,Advance shipping
+0,46992,Advance shipping
+0,32277,Advance shipping
+0,39498,Shipping on time
+0,37182,Advance shipping
+0,40647,Advance shipping
+0,32462,Advance shipping
+1,31410,Late delivery
+0,31957,Advance shipping
+0,36837,Advance shipping
+1,37675,Late delivery
+0,32536,Advance shipping
+0,31336,Shipping canceled
+0,32846,Shipping canceled
+0,35083,Shipping canceled
+0,39036,Shipping canceled
+0,37493,Shipping canceled
+0,33619,Shipping canceled
+0,31797,Shipping canceled
+0,32594,Shipping canceled
+0,34103,Shipping canceled
+0,37048,Shipping canceled
+0,36344,Shipping canceled
+1,46495,Late delivery
+1,50236,Late delivery
+1,69890,Late delivery
+1,48329,Late delivery
+1,18160,Late delivery
+1,18154,Late delivery
+1,10394,Late delivery
+1,20029,Late delivery
+1,66423,Late delivery
+1,15338,Late delivery
+1,71192,Late delivery
+1,17279,Late delivery
+1,64951,Late delivery
+1,16477,Late delivery
+1,14003,Late delivery
+1,18763,Late delivery
+1,14621,Late delivery
+1,15369,Late delivery
+1,70022,Late delivery
